@@ -1,0 +1,32 @@
+.place {
+    padding: 0 0 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.place:last-child {
+    padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place {
+      gap: 30px;
+      padding: 0 0 72px;
+    }
+  
+    .place:last-child {
+      padding: 0;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .place {
+      gap: 48px;
+      padding: 0 0 80px;
+    }
+  
+    .place:last-child {
+      padding: 0;
+    }
+  }

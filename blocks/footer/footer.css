@@ -1,0 +1,37 @@
+.footer {
+    margin: 0 auto;
+    padding: 92px 0 0;
+    max-width: 1184px;
+}
+.footer__content {
+    margin: 0 auto;
+    padding: 0 48px 24px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.footer__links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    column-gap: 18px;
+}
+
+.footer__link {
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+}
+.footer__copyright {
+    margin: 0;
+    padding: 0;
+    max-width: 165px;
+    max-height: 16px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+}
