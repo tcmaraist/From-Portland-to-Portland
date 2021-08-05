@@ -1,11 +1,5 @@
-.place__row {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
+@media screen and (min-width: 768px) {
+  .place__row_align_bottom {
+    align-items: flex-end;
   }
-  
-  @media screen and (min-width: 768px) {
-    .place__row {
-      flex-direction: row;
-    }
-  }
+}

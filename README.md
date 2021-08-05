@@ -1,20 +1,27 @@
 # Project 3: From Portland to Portland
+## by Ty Maraist
 
 ### Overview
 * Intro
 * Figma
-* Images
+* CSS Grid
+* Responsive Design
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+The theme of this project is a bicycle road trip across the northern United States. The articles detail interesting facts and attractions that can be seen along the way. The goal of this project is create a responsive website from a template, a similar project one is likely to encounter as a professional web-developer.
 
 **Figma**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+* This project was built using Figma as a launching point for the design. This is a link to the original template. (https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
-**Images**
+* All text and images have been exported from Figma.
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+**CSS Grid**
 
-Good luck and have fun!
+* The "photo-grid" was made using CSS Grid. The number of columns and rows change according the screen size of the device used to view the website.  
+
+**Responsive Design**
+
+* All of the blocks on this page are responsive to screen size. The blocks, images, and text will all scale up or down depending on the device used to view the website. 
+
