@@ -1,0 +1,12 @@
+.photo-grid__item {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    
+    .photo-grid__item {
+        grid-gap: 14px;
+    }  
+}
