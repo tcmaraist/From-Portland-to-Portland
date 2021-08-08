@@ -7,7 +7,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    background-image: url(/images/cover-route-66.jpg);
+    background-image: url(../../../../images/cover-route-66.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     object-fit: cover;
@@ -19,7 +19,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    object-fit: cover;
+
     background: #000;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
