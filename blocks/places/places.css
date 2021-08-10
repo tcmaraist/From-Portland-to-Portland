@@ -11,6 +11,7 @@
     .places {
         max-width: 768px;
         padding: 88px 25px 0;
+        gap: 75px;
     }
 }
 
@@ -18,12 +19,13 @@
     .places {
         max-width: 928px;
         padding: 95px 50px 0;
+        gap: 80px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .places {
-        max-width: 928px;
+        max-width: 984px;
         padding: 95px 150px 0;
     }
 }

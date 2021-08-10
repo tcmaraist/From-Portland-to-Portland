@@ -25,3 +25,6 @@ The theme of this project is a bicycle road trip across the northern United Stat
 
 * All of the blocks on this page are responsive to screen size. The blocks, images, and text will all scale up or down depending on the device used to view the website. 
 
+**Link to GitHub Pages**
+
+* This project can be viewed on GitHub Pages here: https://tcmaraist.github.io/web_project_3/
