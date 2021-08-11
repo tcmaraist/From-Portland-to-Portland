@@ -1,4 +1,4 @@
-.language__link {
+.header__language-link {
     color: #fff;
     font-size: 18px;
     line-height: 1.1;
@@ -6,7 +6,7 @@
   }
   
   @media screen and (min-width: 768px) {
-    .language__link {
+    .header__language-link {
       font-size: 24px;
       line-height: 1.17;
     }
