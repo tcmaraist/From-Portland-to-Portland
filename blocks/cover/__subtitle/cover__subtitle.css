@@ -24,3 +24,9 @@
         padding: 45px 0 0;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .cover__subtitle {
+        padding: 21px 0 0;
+    }
+}
